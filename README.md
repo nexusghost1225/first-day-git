@@ -1,1 +1,1 @@
-# first-day-git
+# first-day-repo
